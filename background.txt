@@ -1,4 +1,0 @@
-This is some text in the something file
-Now there's some more.
-
-yay
